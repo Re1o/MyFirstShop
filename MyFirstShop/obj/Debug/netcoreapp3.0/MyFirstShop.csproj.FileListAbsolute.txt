@@ -1,0 +1,33 @@
+C:\Users\Reio\source\repos\MyFirstShop\MyFirstShop\obj\Debug\netcoreapp3.0\MyFirstShop.csprojAssemblyReference.cache
+C:\Users\Reio\source\repos\MyFirstShop\MyFirstShop\obj\Debug\netcoreapp3.0\MyFirstShop.AssemblyInfoInputs.cache
+C:\Users\Reio\source\repos\MyFirstShop\MyFirstShop\obj\Debug\netcoreapp3.0\MyFirstShop.AssemblyInfo.cs
+C:\Users\Reio\source\repos\MyFirstShop\MyFirstShop\bin\Debug\netcoreapp3.0\MyFirstShop.exe
+C:\Users\Reio\source\repos\MyFirstShop\MyFirstShop\bin\Debug\netcoreapp3.0\MyFirstShop.deps.json
+C:\Users\Reio\source\repos\MyFirstShop\MyFirstShop\bin\Debug\netcoreapp3.0\MyFirstShop.runtimeconfig.json
+C:\Users\Reio\source\repos\MyFirstShop\MyFirstShop\bin\Debug\netcoreapp3.0\MyFirstShop.runtimeconfig.dev.json
+C:\Users\Reio\source\repos\MyFirstShop\MyFirstShop\bin\Debug\netcoreapp3.0\MyFirstShop.dll
+C:\Users\Reio\source\repos\MyFirstShop\MyFirstShop\bin\Debug\netcoreapp3.0\MyFirstShop.pdb
+C:\Users\Reio\source\repos\MyFirstShop\MyFirstShop\obj\Debug\netcoreapp3.0\MyFirstShop.dll
+C:\Users\Reio\source\repos\MyFirstShop\MyFirstShop\obj\Debug\netcoreapp3.0\MyFirstShop.pdb
+C:\Users\Reio\Desktop\Stuff\New folder\MyFirstShop\MyFirstShop\obj\Debug\netcoreapp3.0\MyFirstShop.csprojAssemblyReference.cache
+C:\Users\Reio\Desktop\Stuff\New folder\MyFirstShop\MyFirstShop\obj\Debug\netcoreapp3.0\MyFirstShop.AssemblyInfoInputs.cache
+C:\Users\Reio\Desktop\Stuff\New folder\MyFirstShop\MyFirstShop\obj\Debug\netcoreapp3.0\MyFirstShop.AssemblyInfo.cs
+C:\Users\Reio\Desktop\Stuff\New folder\MyFirstShop\MyFirstShop\obj\Debug\netcoreapp3.0\MyFirstShop.dll
+C:\Users\Reio\Desktop\Stuff\New folder\MyFirstShop\MyFirstShop\obj\Debug\netcoreapp3.0\MyFirstShop.pdb
+C:\Users\Reio\Desktop\Stuff\New folder\MyFirstShop\MyFirstShop\bin\Debug\netcoreapp3.0\MyFirstShop.exe
+C:\Users\Reio\Desktop\Stuff\New folder\MyFirstShop\MyFirstShop\bin\Debug\netcoreapp3.0\MyFirstShop.deps.json
+C:\Users\Reio\Desktop\Stuff\New folder\MyFirstShop\MyFirstShop\bin\Debug\netcoreapp3.0\MyFirstShop.runtimeconfig.json
+C:\Users\Reio\Desktop\Stuff\New folder\MyFirstShop\MyFirstShop\bin\Debug\netcoreapp3.0\MyFirstShop.runtimeconfig.dev.json
+C:\Users\Reio\Desktop\Stuff\New folder\MyFirstShop\MyFirstShop\bin\Debug\netcoreapp3.0\MyFirstShop.dll
+C:\Users\Reio\Desktop\Stuff\New folder\MyFirstShop\MyFirstShop\bin\Debug\netcoreapp3.0\MyFirstShop.pdb
+C:\Users\Reio\Desktop\New folder\MyFirstShop\MyFirstShop\bin\Debug\netcoreapp3.0\MyFirstShop.exe
+C:\Users\Reio\Desktop\New folder\MyFirstShop\MyFirstShop\bin\Debug\netcoreapp3.0\MyFirstShop.deps.json
+C:\Users\Reio\Desktop\New folder\MyFirstShop\MyFirstShop\bin\Debug\netcoreapp3.0\MyFirstShop.runtimeconfig.json
+C:\Users\Reio\Desktop\New folder\MyFirstShop\MyFirstShop\bin\Debug\netcoreapp3.0\MyFirstShop.runtimeconfig.dev.json
+C:\Users\Reio\Desktop\New folder\MyFirstShop\MyFirstShop\bin\Debug\netcoreapp3.0\MyFirstShop.dll
+C:\Users\Reio\Desktop\New folder\MyFirstShop\MyFirstShop\bin\Debug\netcoreapp3.0\MyFirstShop.pdb
+C:\Users\Reio\Desktop\New folder\MyFirstShop\MyFirstShop\obj\Debug\netcoreapp3.0\MyFirstShop.csprojAssemblyReference.cache
+C:\Users\Reio\Desktop\New folder\MyFirstShop\MyFirstShop\obj\Debug\netcoreapp3.0\MyFirstShop.AssemblyInfoInputs.cache
+C:\Users\Reio\Desktop\New folder\MyFirstShop\MyFirstShop\obj\Debug\netcoreapp3.0\MyFirstShop.AssemblyInfo.cs
+C:\Users\Reio\Desktop\New folder\MyFirstShop\MyFirstShop\obj\Debug\netcoreapp3.0\MyFirstShop.dll
+C:\Users\Reio\Desktop\New folder\MyFirstShop\MyFirstShop\obj\Debug\netcoreapp3.0\MyFirstShop.pdb
